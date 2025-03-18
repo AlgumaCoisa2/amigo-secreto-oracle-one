@@ -32,7 +32,7 @@ Este é um projeto do **Challenge Oracle One**, onde desenvolvemos um aplicativo
 3. Execute o arquivo **index.html** no navegador.
 
 ## 🌐 Publicação (GitHub Pages)
-🔗 [Acesse o projeto online aqui](#) *(adicione o link do GitHub Pages quando publicarmos)*
+🔗 [Acesse o projeto online aqui](#) *(em breve disponivel)*
 
 ---
 Projeto desenvolvido como parte do **Challenge Oracle ONE - Alura & Oracle**.  

@@ -32,7 +32,7 @@ Este é um projeto do **Challenge Oracle One**, onde desenvolvemos um aplicativo
 3. Execute o arquivo **index.html** no navegador.
 
 ## 🌐 Publicação (GitHub Pages)
-🔗 [Acesse o projeto online aqui](#) *(em breve disponivel)*
+🔗 [Acesse o projeto online aqui](https://algumacoisa2.github.io/amigo-secreto-oracle-one/)
 
 ---
 Projeto desenvolvido como parte do **Challenge Oracle ONE - Alura & Oracle**.  
